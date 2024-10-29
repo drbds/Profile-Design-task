@@ -266,10 +266,6 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toEndOf="@id/imageView8"
                     app:layout_constraintTop_toBottomOf="@+id/imageView6"/>
-
-
-
-
             </androidx.constraintlayout.widget.ConstraintLayout>
             <Button
                 android:id="@+id/see_more_btn"
@@ -287,91 +283,6 @@
                 app:layout_constraintTop_toBottomOf="@id/container"
                 app:strokeColor="#000000"
                 app:strokeWidth="2dp" />
-
         </androidx.constraintlayout.widget.ConstraintLayout>
-
-
     </androidx.core.widget.NestedScrollView>
-
-
-
-
-    <!--    <ImageView-->
-    <!--        android:id="@+id/imageView5"-->
-    <!--        android:layout_width="105dp"-->
-    <!--        android:layout_height="67dp"-->
-    <!--        app:srcCompat="@drawable/rectangle26"-->
-    <!--        tools:layout_editor_absoluteX="40dp"-->
-    <!--        tools:layout_editor_absoluteY="474dp" />-->
-
-    <!--    <ImageView-->
-    <!--        android:id="@+id/imageView7"-->
-    <!--        android:layout_width="103dp"-->
-    <!--        android:layout_height="70dp"-->
-    <!--        app:srcCompat="@drawable/rectangle23"-->
-    <!--        tools:layout_editor_absoluteX="292dp"-->
-    <!--        tools:layout_editor_absoluteY="404dp" />-->
-
-    <!--    <ImageView-->
-    <!--        android:id="@+id/imageView11"-->
-    <!--        android:layout_width="75dp"-->
-    <!--        android:layout_height="70dp"-->
-    <!--        app:srcCompat="@drawable/rectangle22"-->
-    <!--        tools:layout_editor_absoluteX="176dp"-->
-    <!--        tools:layout_editor_absoluteY="544dp" />-->
-
-    <!--    <ImageView-->
-    <!--        android:id="@+id/imageView10"-->
-    <!--        android:layout_width="75dp"-->
-    <!--        android:layout_height="70dp"-->
-    <!--        app:srcCompat="@drawable/rectangle25"-->
-    <!--        tools:layout_editor_absoluteX="304dp"-->
-    <!--        tools:layout_editor_absoluteY="541dp" />-->
-
-    <!--    <ImageView-->
-    <!--        android:id="@+id/imageView12"-->
-    <!--        android:layout_width="75dp"-->
-    <!--        android:layout_height="70dp"-->
-    <!--        app:srcCompat="@drawable/rectangle27"-->
-    <!--        tools:layout_editor_absoluteX="304dp"-->
-    <!--        tools:layout_editor_absoluteY="479dp" />-->
-
-    <!--    <ImageView-->
-    <!--        android:id="@+id/imageView9"-->
-    <!--        android:layout_width="75dp"-->
-    <!--        android:layout_height="70dp"-->
-    <!--        app:srcCompat="@drawable/rectangle24"-->
-    <!--        tools:layout_editor_absoluteX="176dp"-->
-    <!--        tools:layout_editor_absoluteY="474dp" />-->
-
-    <!--    <ImageView-->
-    <!--        android:id="@+id/imageView6"-->
-    <!--        android:layout_width="106dp"-->
-    <!--        android:layout_height="67dp"-->
-    <!--        app:srcCompat="@drawable/rectangle21"-->
-    <!--        tools:layout_editor_absoluteX="40dp"-->
-    <!--        tools:layout_editor_absoluteY="549dp" />-->
-
-    <!--    <ImageView-->
-    <!--        android:id="@+id/imageView6"-->
-    <!--        android:layout_width="106dp"-->
-    <!--        android:layout_height="67dp"-->
-    <!--        app:srcCompat="@drawable/rectangle21"-->
-    <!--        tools:layout_editor_absoluteX="162dp"-->
-    <!--        tools:layout_editor_absoluteY="405dp" />-->
-
-    <!--    <Button-->
-    <!--        android:id="@+id/follow_jane"-->
-    <!--        android:layout_width="400dp"-->
-    <!--        android:layout_height="wrap_content"-->
-    <!--        android:backgroundTint="#FFFFFF"-->
-    <!--        android:text="SEE MORE"-->
-    <!--        android:textColor="#000000"-->
-    <!--        android:textStyle="bold"-->
-    <!--        app:cornerRadius="6dp"-->
-    <!--        tools:ignore="DuplicateIds"-->
-    <!--        tools:layout_editor_absoluteX="5dp"-->
-    <!--        tools:layout_editor_absoluteY="615dp" />-->
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>
